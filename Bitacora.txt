@@ -1,0 +1,19 @@
+1 - 2021 / 09 / 12
+__________________________________________________________________________________________________________
+
+Reunion entre 3 integrantes del equipo, 2 conceptos del proyecto han salido, el primero es que la
+pagina se trate de una empresa manufacturera de muebles que venda desde fabrica a sus clientes, con un 
+enfoque de negocio mayorista.
+
+La segunda idea es la de una pagina similar en concepto a alibaba, que conecte a fabricantes con mayoristas
+en pedidos grandes de 10 o más elementos, estas 2 ideas son compatibles con lo pedido, ya que permite tener 
+un modulo de ventas, gestion de vendedores, que se pueda ver en que estado el pedido desde la fabricacion, 
+empaquetacion y distribucion de los productos.
+
+En el lado del desarrollo se va a tener 2 repositorios, uno para la rest api de Node y el otro para el
+frontend en React, trabajando con la metodologia SCRUM, para los roles del Product Owner y del Scrum Master 
+quedarian respectivamente para Brayan Chavarro y Michael Muñoz
+
+Todo lo anterior es sujeto a cambio con la proxima reunión con el grupo completo
+
+__________________________________________________________________________________________________________
